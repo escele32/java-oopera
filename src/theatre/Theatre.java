@@ -12,7 +12,7 @@ import show.Show;
 public class Theatre {
     public static void main(String[] args) {
 
-        Actor actor1 = new Actor("Павел", "Сидоров", Gender.MALE, 1.95);
+        Actor actor1 = new Actor("Святослав", "Сидоров", Gender.MALE, 1.95);
         Actor actor2 = new Actor("Вероника", "Петрова", Gender.FEMALE, 1.68);
         Actor actor3 = new Actor("Иван", "Незабудкин", Gender.MALE, 1.85);
 
